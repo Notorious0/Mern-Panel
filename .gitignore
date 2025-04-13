@@ -45,3 +45,17 @@ yarn-error.log*
 *.local
 
 node_modules
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# Mac/Linux/Windows cache dosyaları
+.DS_Store
+Thumbs.db
+
